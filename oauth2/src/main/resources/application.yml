@@ -1,0 +1,11 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: Ov23li8kmxclAZUEy6Ep
+            clientSecret: 2dd89656d55dedbbd28b42ec895c268390ff9dc0
+server:
+  servlet:
+    context-path: /demo
